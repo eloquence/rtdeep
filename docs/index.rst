@@ -3,6 +3,8 @@ Welcome to RTDeep's documentation!
 
 This is just an example for our theming options!
 
+We love theming.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
